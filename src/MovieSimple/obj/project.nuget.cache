@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "vSdX63OKttGYYkjO9hSNeA9ijYVjmvBQATEi5prOPcUNksuPJghdM22Ug3FNZVtduvSshJ4mDqqN/AdWLZ5LCw==",
+  "success": true,
+  "projectFilePath": "/Users/neeleshrambally/Documents/Development/gamesGlobal/MovieApi/movie/src/MovieSimple/MovieSimple.csproj",
+  "expectedPackageFiles": [
+    "/Users/neeleshrambally/.nuget/packages/amazon.lambda.apigatewayevents/2.4.0/amazon.lambda.apigatewayevents.2.4.0.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.2.0/amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/dapper/2.0.143/dapper.2.0.143.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/microsoft.entityframeworkcore/8.0.0-preview.4.23259.3/microsoft.entityframeworkcore.8.0.0-preview.4.23259.3.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.0-preview.4.23259.3/microsoft.entityframeworkcore.abstractions.8.0.0-preview.4.23259.3.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.0-preview.4.23259.3/microsoft.entityframeworkcore.analyzers.8.0.0-preview.4.23259.3.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.0-preview.4.23259.3/microsoft.entityframeworkcore.relational.8.0.0-preview.4.23259.3.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0-preview.4.23259.5/microsoft.extensions.caching.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/microsoft.extensions.caching.memory/8.0.0-preview.4.23259.5/microsoft.extensions.caching.memory.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0-preview.4.23259.5/microsoft.extensions.configuration.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0-preview.4.23259.5/microsoft.extensions.dependencyinjection.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0-preview.4.23259.5/microsoft.extensions.dependencyinjection.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/microsoft.extensions.logging/8.0.0-preview.4.23259.5/microsoft.extensions.logging.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0-preview.4.23259.5/microsoft.extensions.logging.abstractions.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/microsoft.extensions.options/8.0.0-preview.4.23259.5/microsoft.extensions.options.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/microsoft.extensions.primitives/8.0.0-preview.4.23259.5/microsoft.extensions.primitives.8.0.0-preview.4.23259.5.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/npgsql/8.0.0-preview.4/npgsql.8.0.0-preview.4.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/npgsql.entityframeworkcore.postgresql/8.0.0-preview.4/npgsql.entityframeworkcore.postgresql.8.0.0-preview.4.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/microsoft.netcore.app.ref/6.0.20/microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "/Users/neeleshrambally/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.20/microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

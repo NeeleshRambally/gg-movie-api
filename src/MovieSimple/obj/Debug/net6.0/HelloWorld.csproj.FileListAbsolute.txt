@@ -1,0 +1,14 @@
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/bin/Debug/net6.0/HelloWorld.deps.json
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/bin/Debug/net6.0/HelloWorld.runtimeconfig.json
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/bin/Debug/net6.0/HelloWorld.dll
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/bin/Debug/net6.0/HelloWorld.pdb
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Debug/net6.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Debug/net6.0/HelloWorld.AssemblyInfo.cs
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Debug/net6.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Debug/net6.0/HelloWorld.dll
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Debug/net6.0/refint/HelloWorld.dll
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Debug/net6.0/HelloWorld.pdb
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Debug/net6.0/HelloWorld.genruntimeconfig.cache
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Debug/net6.0/ref/HelloWorld.dll

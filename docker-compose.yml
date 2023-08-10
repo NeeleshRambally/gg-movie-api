@@ -1,0 +1,6 @@
+﻿services:
+  movie:
+    image: movie
+    build:
+      context: .
+      dockerfile: Movie/src/Movie/Dockerfile

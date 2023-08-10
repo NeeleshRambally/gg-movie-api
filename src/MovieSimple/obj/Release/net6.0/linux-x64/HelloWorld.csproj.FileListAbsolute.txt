@@ -1,0 +1,14 @@
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/bin/Release/net6.0/linux-x64/HelloWorld.deps.json
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/bin/Release/net6.0/linux-x64/HelloWorld.runtimeconfig.json
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/bin/Release/net6.0/linux-x64/HelloWorld.dll
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/bin/Release/net6.0/linux-x64/HelloWorld.pdb
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.csproj.AssemblyReference.cache
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.AssemblyInfoInputs.cache
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.AssemblyInfo.cs
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.dll
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Release/net6.0/linux-x64/refint/HelloWorld.dll
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.pdb
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Release/net6.0/linux-x64/HelloWorld.genruntimeconfig.cache
+/Users/neeleshrambally/Documents/Development/gamesGlobal/HelloWorld/movie/src/HelloWorld/obj/Release/net6.0/linux-x64/ref/HelloWorld.dll
