@@ -2,6 +2,7 @@
 
 This Solution  was build using jetBrains Raider IDE and contains 2 projects 
 1. Movie - Asp.net Web Api Application
+
 2. MovieSimple - .NET Aws Lambda function 
 
 Both solutions are deployed on AWS ,swagger document can be found here: 
