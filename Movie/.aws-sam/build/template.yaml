@@ -1,0 +1,47 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: 'Sample SAM Template for MovieApi
+
+  '
+Globals:
+  Function:
+    Timeout: 10
+    MemorySize: 128
+Resources:
+  MovieFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: MovieFunction
+      Handler: MovieSimple::MovieSimple.Function::FunctionHandler
+      Runtime: dotnet6
+      Architectures:
+      - arm64
+      MemorySize: 256
+      Environment:
+        Variables:
+          PARAM1: VALUE
+      Events:
+        Function:
+          Type: Api
+          Properties:
+            Path: /hello
+            Method: get
+    Metadata:
+      SamResourceId: MovieFunction
+Outputs:
+  MovieApi:
+    Description: API Gateway endpoint URL for Prod stage for Hello World function
+    Value:
+      Fn::Sub: https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/Prod/hello/
+  Function:
+    Description: Hello World Lambda Function ARN
+    Value:
+      Fn::GetAtt:
+      - Function
+      - Arn
+  FunctionIamRole:
+    Description: Implicit IAM Role created for Hello World function
+    Value:
+      Fn::GetAtt:
+      - FunctionRole
+      - Arn
