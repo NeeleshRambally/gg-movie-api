@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace MovieSimple;
+namespace MovieFunction;
 
 public class MovieDto
 {

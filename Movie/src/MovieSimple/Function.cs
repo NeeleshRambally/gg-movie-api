@@ -9,7 +9,7 @@ using Npgsql;
 
 [assembly: LambdaSerializer(typeof(Amazon.Lambda.Serialization.SystemTextJson.DefaultLambdaJsonSerializer))]
 
-namespace MovieSimple
+namespace MovieFunction
 {
     public class Function
     {
