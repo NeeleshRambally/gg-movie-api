@@ -14,4 +14,4 @@ https://main.d1h137i74nxuca.amplifyapp.com/movies
 Databse information 
 A postgres RDS database has been used as a datastore.
 
-More information on project , cloud infrastructure and design decisions can be found here :
+More information on project , cloud infrastructure and design decisions can be found here in ApplicationDoc.pdf
