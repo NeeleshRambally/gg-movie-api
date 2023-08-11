@@ -11,7 +11,5 @@ https://wn34wdzpxpuvvpsb5e5xkirycu0jgtqs.lambda-url.us-east-1.on.aws/swagger/ind
 Front end to the solution can here found here :
 https://main.d1h137i74nxuca.amplifyapp.com/movies
 
-Databse information 
+Databse information -
 A postgres RDS database has been used as a datastore.
-
-More information on project , cloud infrastructure and design decisions can be found here :
