@@ -10,12 +10,10 @@ namespace Movie.Controllers;
 [Route("[controller]")]
 public class MovieController : ControllerBase
 {
-    private readonly ILogger<MovieController> _logger;
     private readonly IMovieService _service;
 
-    public MovieController(ILogger<MovieController> logger, IMovieService service)
+    public MovieController(IMovieService service)
     {
-        _logger = logger;
         _service = service;
     }
     
